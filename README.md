@@ -72,7 +72,7 @@ Active development is focused on the following areas:
 
 ## Recent Changelog
 
-### v26.1.1 — The "Dark & Night" Update
+### v26.1.1 — The "Frontend Polishment" Update
 *Focus: State Persistence & Reliability*
 
 #### System Synchronization
