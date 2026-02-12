@@ -74,7 +74,7 @@ export default function AppLayout() {
 
         {/* Version Badge */}
         <div className="fixed bottom-4 right-4 z-50 text-[10px] text-muted-foreground font-mono-code">
-          v26.1.1
+          v26.2.1
         </div>
       </div>
     </div>

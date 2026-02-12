@@ -40,7 +40,7 @@ export function AppSidebar() {
           </div>
           <div>
             <h1 className="font-bold text-sm text-foreground tracking-wide">WEB AFK CLIENT</h1>
-            <p className="text-[10px] text-muted-foreground">v26.1.1</p>
+            <p className="text-[10px] text-muted-foreground">v26.2.1</p>
           </div>
         </div>
       </div>

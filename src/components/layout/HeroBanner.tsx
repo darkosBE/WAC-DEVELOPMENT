@@ -41,7 +41,7 @@ export function HeroBanner() {
         <div className="flex items-center gap-4">
           <div className="hidden md:flex flex-col items-end mr-4">
             <span className="text-[10px] uppercase tracking-widest text-muted-foreground">Ready to deploy</span>
-            <span className="text-xs text-primary font-medium">v26.1.1</span>
+            <span className="text-xs text-primary font-medium">v26.2.1</span>
           </div>
           <Button className="h-9">
             <Zap className="w-4 h-4 mr-2" />
